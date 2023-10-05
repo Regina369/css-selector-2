@@ -3,7 +3,7 @@
   background-color: yellow;
 }
 
-.lesson-four-task-two .title:hover {
+.lesson-four-task-two .link:hover + .title {
   background-color: green;
 }
 
@@ -81,7 +81,7 @@
   background-color: red;
 }
 
-.lesson-four-task-nineteen .btn-group:focus-within button {
+.lesson-four-task-nineteen .btn-group:focus-within {
   color: white;
   background-color: yellow;
 }
